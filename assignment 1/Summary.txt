@@ -1,0 +1,7 @@
+Summary File
+Sentence tokenized = 62378726
+Words Produced = 962710810 
+Character Count = 4510435341
+Average Sentence Lengh = 15.433319526275673
+Average word length = 4.685140432774407
+Type/Token Ratio (TTR) = 0.011076785353641141
