@@ -13,5 +13,5 @@ Assignment Structure
 > 
 >- lab-1.ipynb : Contains the complete code for processing and tokenization using regex.
 >- Summary.txt contains all evaluated metrics such as number of words, sentences, characters, average sentence length, average word length and ttr.
-
+>- Uploaded first 5 parquet files of the complete compressed data
 
